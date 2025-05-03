@@ -1,10 +1,10 @@
 import telebot
 from telebot import types
 
-TOKEN = 'YOUR_BOT_TOKEN'
-CHANNEL_USERNAME = '@YourChannelUsername'
+TOKEN = '7714405941:AAELHxpPvNc2uMeH2SBVnXqqD6r_wLqdCgQ'
+CHANNEL_USERNAME = '@@testforGoDxORion'
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(7714405941:AAELHxpPvNc2uMeH2SBVnXqqD6r_wLqdCgQ)
 
 users = {}
 referrals = {}
