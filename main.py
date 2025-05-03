@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 TOKEN = '7714405941:AAELHxpPvNc2uMeH2SBVnXqqD6r_wLqdCgQ'
-CHANNEL_USERNAME = '@@testforGoDxORion'
+CHANNEL_USERNAME = '@testforGoDxORion'
 
 bot = telebot.TeleBot(7714405941:AAELHxpPvNc2uMeH2SBVnXqqD6r_wLqdCgQ)
 
